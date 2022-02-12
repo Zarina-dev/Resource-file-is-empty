@@ -12,3 +12,8 @@
 해결:    project를 아예 닫고 다시 아래 사진과 같이 연다
 
 ![image](https://user-images.githubusercontent.com/61898376/153703802-65626504-5d97-4c2d-8bb3-6af8d0b9ba80.png)
+
+
+
+결과:
+![image](https://user-images.githubusercontent.com/61898376/153703889-00ac67c7-532d-4e87-be16-5313f1b30524.png)
